@@ -1,0 +1,52 @@
+body{
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+span{
+    color: #EC4067;
+}
+ul.header{
+    list-style-type: none;
+    float: right;
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: lighter;
+    padding-top: 10px;
+}
+li{
+    display: inline;
+}
+.Enroll{
+    padding-left: 10px;
+    color: #EC4067;
+}
+}
+button{
+    color: #EC4067;
+}
+.Now{
+    background-color: #EC4067;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    height: 25;
+    width: 80;
+    text-align: center;
+}
+#Stories{
+padding-right: 15;
+color: grey;
+}
+#Courses{
+padding-right: 15;
+color: grey;
+}
+#OurProjects{
+padding-right: 15;
+color: grey;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
