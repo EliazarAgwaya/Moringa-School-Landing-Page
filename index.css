@@ -71,4 +71,16 @@ img{
 .Orientation{
     padding-top: 100px;
 }
+.display{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+.image{
+    flex-basis: 20%;
+}
+.text{
+    width: 200;
+    padding-left: 50px;
+}
     
