@@ -50,3 +50,10 @@ a{
     color: white;
     text-decoration: none;
 }
+h1{
+    color: #EC4067;
+}
+#Inner{
+    padding-left: 50px;
+    padding-top: 60px;
+}
