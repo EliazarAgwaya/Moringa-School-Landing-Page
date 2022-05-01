@@ -34,6 +34,9 @@ button{
     width: 80;
     text-align: center;
 }
+#read{
+    width: 120px;
+}
 #Stories{
 padding-right: 15;
 color: grey;
@@ -83,4 +86,6 @@ img{
     width: 200;
     padding-left: 50px;
 }
-    
+.Board{
+    align-items: center;
+}
