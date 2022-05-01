@@ -68,7 +68,7 @@ h1{
 }
 .float{
     float: right;
-    height: 300;
+    height: 220;
     width: 380;
 }
 .Orientation{
@@ -90,7 +90,7 @@ h1{
     align-items: center;
 }
 .graduation{
-    padding-top: 250;
+    padding-top: 200;
 }
 #Oketch{
     height: 110;
@@ -122,8 +122,12 @@ h1{
 }
 ul.photos li{
     float: left;
+    padding-bottom: 100;
 
 }
 h4{
     color: #EC4067;
+}
+.P{
+    padding-bottom: 50;
 }
