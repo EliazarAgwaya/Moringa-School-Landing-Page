@@ -92,22 +92,38 @@ h1{
 .graduation{
     padding-top: 250;
 }
-#photos{
-    float: none;
-
-}
 #Oketch{
     height: 110;
-    padding-right: 30;
+    padding-right: 40;
 }
 #Albert{
     height: 110;
-    padding-right: 30;
+    padding-right: 40;
 }
 #Katana{
     height: 110;
-    padding-right: 30;
+    padding-right: 40;
 }
 #Karimi{
     height: 110;
+    padding-right: 40;
+}
+.one{
+    width: 160;
+}
+.two{
+    width: 160;
+}
+.three{
+    width: 160;
+}
+.four{
+    width: 160;
+}
+ul.photos li{
+    float: left;
+
+}
+h4{
+    color: #EC4067;
 }
