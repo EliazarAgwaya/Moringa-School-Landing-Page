@@ -131,3 +131,23 @@ h4{
 .P{
     padding-bottom: 50;
 }
+.contact{
+    color: #EC4067;
+}
+.still{
+    padding-top: 100;
+    padding-bottom: 10;
+}
+.love{
+    height: 12;
+}
+.design{
+    background-color: rgba(243, 243, 243, 0.849);
+    height: 40;
+    padding-top: 50;
+    padding-bottom: 30;
+    text-align: center;
+}
+.go{
+    padding-bottom: 40;
+}
