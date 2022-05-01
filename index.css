@@ -75,12 +75,13 @@ h1{
     height: 230;
     width: 380;
 }
+
 .Tech{
     height: 300;    
 }
 }
 .Orientation{
-    padding-top: 100px;
+    padding-top: 80px;
 }
 .display{
     display: flex;
@@ -91,11 +92,8 @@ h1{
     flex-basis: 20%;
 }
 .text{
-    width: 200;
+    width: 300px;
     padding-left: 50px;
-}
-.Board{
-    align-items: center;
 }
 .graduation{
     padding-top: 200;
@@ -164,4 +162,5 @@ h4{
 }
 a:hover{
     color: blue;
+}
 }
