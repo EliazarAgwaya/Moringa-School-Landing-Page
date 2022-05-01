@@ -57,3 +57,9 @@ h1{
     padding-left: 50px;
     padding-top: 60px;
 }
+.Explore{
+    border: 1px solid #EC4067;
+    color: #EC4067;
+    height: 25;
+    width: 80;
+}
